@@ -13,3 +13,7 @@ Scritto in **mackdown** *(come HTML ma più immediato)*
 - list
 - list
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
